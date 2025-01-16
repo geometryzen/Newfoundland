@@ -1,1 +1,2 @@
-## Newfoundland and Labrador
+## Newfoundland (Obsidian Notes)
+
