@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7b3556b27cb089b4",
+        "id": "a83d1cfa2ce72f4b",
         "type": "tabs",
         "children": [
           {
-            "id": "ac404e910733cb71",
+            "id": "692089423c896b40",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/00_04_Newfoundland.webp"
+                "file": "6 - Atomic Notes/Cape Spear.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "00_04_Newfoundland"
+              "icon": "lucide-file",
+              "title": "Cape Spear"
             }
           }
         ]
@@ -160,8 +162,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac404e910733cb71",
+  "active": "692089423c896b40",
   "lastOpenFiles": [
+    "4 - Indices/Historic Sites.md",
+    "6 - Atomic Notes/Cape Spear.md",
+    "7 - Images/cape-spear.jpeg",
+    "images/cape-spear.jpg.md",
+    "images/cape-spear.jpeg.crdownload",
+    "6 - Atomic Notes/Newfoundland Itinerary.md",
+    "3 - Tags/itinerary.md",
+    "6 - Atomic Notes/Quirpon Island Zodiac Tour.md",
+    "6 - Atomic Notes/Inbound Itinerary.md",
+    "6 - Atomic Notes/Outbound Itinerary.md",
+    "2 - Source Material/Kayaking in Newfoundland.md",
+    "6 - Atomic Notes/Kayaking.md",
+    "5 - Templates/Atomic Note.md",
+    "7 - Images/00_04_Newfoundland.webp",
+    "6 - Atomic Notes",
+    "5 - Templates",
+    "4 - Indices",
+    "3 - Tags",
+    "2 - Source Material",
+    "1 - Rough Notes",
     "Campspot.md",
     "Terra Nova National Park.md",
     "Gros Morne National Park.md",
@@ -170,9 +192,8 @@
     "Harbor Voices Festival.md",
     "Iceberg Festival.md",
     "Festivals and Events.md",
-    "images/00_04_Newfoundland.webp",
     "images/00_04_Newfoundland.webp.crdownload",
-    "images",
+    "7 - Images",
     "Parks.md",
     "README.md",
     "Untitled.canvas"
