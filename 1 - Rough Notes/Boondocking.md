@@ -7,9 +7,9 @@ The Dyrt
 
 ## Video
 Bonnie Bay Little Pond
-Skipper Joe's Souvenirs
-Trinity
-Fort Point Lighthouse
+~~Skipper Joe's Souvenirs, King's Point~~
+Trinity - Camping Area
+Fort Point Lighthouse - Camping Area
 Anderson Cove
 St John's
 Spiller's Cove

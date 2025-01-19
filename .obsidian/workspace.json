@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Boondocking.md",
+                "file": "6 - Atomic Notes/04 Twillingate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boondocking"
+              "title": "04 Twillingate"
             }
           }
         ],
@@ -180,10 +180,15 @@
   },
   "active": "2d572dfd4012d0ca",
   "lastOpenFiles": [
-    "6 - Atomic Notes/Gros Morne National Park.md",
+    "6 - Atomic Notes/08 St John's.md",
+    "6 - Atomic Notes/02 St Anthony.md",
+    "6 - Atomic Notes/07 Cape Spear.md",
+    "6 - Atomic Notes/06 Bonavista.md",
+    "6 - Atomic Notes/05 Trinity.md",
     "1 - Rough Notes/Boondocking.md",
     "6 - Atomic Notes/Equipment.md",
-    "6 - Atomic Notes/Twillingate.md",
+    "6 - Atomic Notes/04 Twillingate.md",
+    "6 - Atomic Notes/01 Gros Morne National Park.md",
     "1 - Rough Notes/What's Next.md",
     "6 - Atomic Notes/Hiking.md",
     "4 - Indices/Historic Sites.md",
@@ -191,13 +196,12 @@
     "1 - Rough Notes/new_name.adoc",
     "1 - Rough Notes/my-page.asc.md",
     "3 - Tags/Untitled.md",
-    "6 - Atomic Notes/Cape Spear.md",
     "7 - Images/cape-spear.jpeg",
     "images/cape-spear.jpg.md",
     "images/cape-spear.jpeg.crdownload",
     "6 - Atomic Notes/Newfoundland Itinerary.md",
     "3 - Tags/itinerary.md",
-    "6 - Atomic Notes/Quirpon Island Zodiac Tour.md",
+    "6 - Atomic Notes/03 Quirpon Island Zodiac Tour.md",
     "6 - Atomic Notes/Inbound Itinerary.md",
     "6 - Atomic Notes/Outbound Itinerary.md",
     "6 - Atomic Notes/Kayaking.md",
@@ -212,10 +216,6 @@
     "Campspot.md",
     "Terra Nova National Park.md",
     "Gros Morne National Park.md",
-    "Newfoundland.md",
-    "Go RVing.md",
-    "Harbor Voices Festival.md",
-    "Iceberg Festival.md",
     "images/00_04_Newfoundland.webp.crdownload",
     "7 - Images",
     "Untitled.canvas"

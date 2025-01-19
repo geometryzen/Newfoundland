@@ -10,7 +10,7 @@ Tags: [[itinerary]]
 | Jun 2  |                                   |
 | Jun 3  |                                   |
 | Jun 4  | Port au Choix                     |
-| Jun 5  | Quirpon Island [[Quirpon Island Zodiac Tour]]                |
+| Jun 5  | Quirpon Island [[03 Quirpon Island Zodiac Tour]]                |
 | Jun 6  | Ice Festival St Anthony           |
 | Jun 7  |                                   |
 | Jun 8  |                                   |

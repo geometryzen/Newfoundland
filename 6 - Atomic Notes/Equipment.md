@@ -13,6 +13,7 @@ Binoculars
 Camera
 First-aid-kit
 Water Cooker
+Sunglasses
 
 ## Kayaking
 

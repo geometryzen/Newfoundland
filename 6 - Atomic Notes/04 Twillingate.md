@@ -1,9 +1,17 @@
 
+Crow Head is possible campsite
+
+Rock Cut Trail
+French Beach
+
+Top 10 Hiking in Canada
+
 [The Best Free Camping Spot in Newfoundland](https://www.youtube.com/watch?v=pZVxLdEa5ko)
 
 Twillingate
 Robins for donuts
-Long Point Lighthouse, great views of water
+Twillingate Lighthouse Coastal Trails - Top 10 Hikes in Canada
+Long Point Lighthouse (Crow Head), great views of water
 Trails full of berries
 0.4 miles of lighthouse is park / free campground
 Raspberry Iceberg Winary (Local berries and iceberg water)
