@@ -6,6 +6,6 @@ Tags:
 
 # Kayaking
 
-
+[Cape Broyle, NL and Placentia Tide Race](https://www.youtube.com/watch?v=YLykollZydY)
 
 # References
