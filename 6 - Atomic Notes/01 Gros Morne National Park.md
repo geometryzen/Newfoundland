@@ -1,6 +1,8 @@
 
 [Best of Gros Morne National Park](https://www.youtube.com/watch?v=lagimx3fmkQ)
 
+[Can You Really Explore Gros Morne National Park in Just 3 Days?](https://www.youtube.com/watch?v=KTYW6-cEXAk)
+
 ## Western Brook Pond (boat tour)
 Parking Lot
 Tour is 45min from lot, arrive early for good spot?
@@ -35,6 +37,10 @@ Paddling along Bonnie Bay - good for beginner, intermediate, expert.
 TODO: A better map of Gros Morne NP and the Bonne Bay Area?
 
 [Dor Kayak Paddling in Newfoundland](https://www.youtube.com/watch?v=i1ohnVQbcos)
+
+## Camping
+
+Shallow Bay Campground? Has Showers
 
 
 

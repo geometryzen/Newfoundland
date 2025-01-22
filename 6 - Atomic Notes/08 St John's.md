@@ -24,3 +24,12 @@ Quidi Vidi Brewing - Iceberg Beer
 Mallard Cottage - one of the oldest residential structures in St John's 1820-1840, restaurant, Brunch (Fish Cakes, Brisket Eggs Benedict) Cake table on weekends. A bit expensive but good quality.
 
 East Coast Trail - Stiles Cove Path 15.7km. Waves, coves, waterfalls. Water color. Knarly waves
+
+[3 days exploring the BEST of St John's, Newfoundland](https://www.youtube.com/watch?v=c_QQlhbSpQg)
+
+[# Why Do Hundreds of Icebergs Keep Visiting This Town?](https://www.youtube.com/watch?v=zGmQQwkCFaI)
+
+[The Best Walk In St.John's is a Scenic Coastal Gem](https://www.youtube.com/watch?v=eWydZZBfkEA)
+A walk from St. John's harbor to Signal Hill via Battery Road
+Cabot Tower
+and on to Quidi Vidi

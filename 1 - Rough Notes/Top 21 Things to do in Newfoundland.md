@@ -23,3 +23,11 @@
 19. Klondike Trail to Spiller's Cove in Elliston
 20. Red Bay National Historic Site, Labrador
 21. Gros Morne National Park
+
+[The Newfoundland Road Trip That Pushed Me To The Limit](https://www.youtube.com/watch?v=TyDhOnBi1Xs)
+
+[The 10 most BEAUTIFUL towns in Newfoundland](https://www.youtube.com/watch?v=TBpMYtfaR_g)
+
+[Why Newfoundland Used To Be The Crossroads of the World?](https://www.youtube.com/watch?v=vqV78o-G5iM)
+
+[How Newfoundland And Labrador Lost Their Independence](https://www.youtube.com/watch?v=auBDxWw4pvo)
