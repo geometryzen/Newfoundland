@@ -1,5 +1,5 @@
 
-## Account
+## Parks Canada Account
 
 My Parks Canada Reservation account is signed in through GCKey
 
@@ -9,11 +9,21 @@ My Parks Canada Reservation account is signed in through GCKey
 user: davidgeoholmes
 pwd: DO NOT TYPE THIS HERE AS WE ARE STORED IN GITHUB
 
-## Launch Dates
+## Parks Canada Launch Dates
 
 Nova Scotia Feb 10, 8am AT
 Newfoundland Feb 12, 8:30am NT
 
+
+## Parks Newfoundland Account
+
+user: My email
+pwd: DO NOT TYPE THIS HERE AS WE ARE STORED IN GITHUB
+## ParksNL Reservations
+
+Usually launches in the 3rd week of April each year.
+
+[ParksNL and Reserve a Campsite](https://www.parksnl.ca/reservations/)
 
 ## Reservations
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Newfoundland Itinerary.md",
+                "file": "8 - Campgrounds/Launch Dates and Reservations.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Newfoundland Itinerary"
+              "title": "Launch Dates and Reservations"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "a4e82b3833de1543",
   "lastOpenFiles": [
-    "6 - Atomic Notes/03 Quirpon Island Zodiac Tour.md",
     "6 - Atomic Notes/Newfoundland Itinerary.md",
+    "8 - Campgrounds/Pistolet Bay Provincial Park.md",
+    "6 - Atomic Notes/03 Quirpon Island Zodiac Tour.md",
     "8 - Campgrounds/Gros Morne Campgrounds.md",
     "8 - Campgrounds/Launch Dates and Reservations.md",
     "8 - Campgrounds",
@@ -192,7 +193,6 @@
     "2 - Source Material/Kayaking in Newfoundland.md",
     "1 - Rough Notes/new_name.adoc",
     "1 - Rough Notes/my-page.asc.md",
-    "3 - Tags/Untitled.md",
     "7 - Images/cape-spear.jpeg",
     "images/cape-spear.jpeg.crdownload",
     "7 - Images/00_04_Newfoundland.webp",
