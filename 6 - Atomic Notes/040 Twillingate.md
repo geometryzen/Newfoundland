@@ -1,8 +1,10 @@
+Make sure to stay long enough to see historic places, churches, ...
+It may be very windy.
 TODO: Need a detailed map of Twillingate
 Crow Head is possible campsite
 
 Rock Cut Trail?
-French Beach
+[French Beach Trail, Spiller's Cove](https://www.youtube.com/watch?v=WSnP2Bm5Lmo)
 
 Top 10 Hiking in Canada
 

@@ -1,3 +1,7 @@
+
+## Roadside Assistance
+Good Sam? 
+
 ## Hiking
 
 All Trails or Books?
@@ -19,3 +23,9 @@ Sunglasses
 
 Kayaking Shoes
 Kayaking Mittens?
+
+## Guides
+Parks Canada has an app with downloadable guides
+
+
+

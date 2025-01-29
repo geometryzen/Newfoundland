@@ -1,4 +1,9 @@
 
+[Fees](https://parks.canada.ca/pn-np/nl/grosmorne/visit/tarifs-fees)
+
+Consider getting a Discovery Pass in advance
+
+
 [Best of Gros Morne National Park](https://www.youtube.com/watch?v=lagimx3fmkQ)
 
 [Can You Really Explore Gros Morne National Park in Just 3 Days?](https://www.youtube.com/watch?v=KTYW6-cEXAk)
@@ -8,6 +13,8 @@ Parking Lot
 Tour is 45min from lot, arrive early for good spot?
 Probably can't take Chloe
 $72/person
+
+Kayaking: Start at parking area, paddle to Western Brook, end at Snug Harbor
 
 ## Green Gardens (hiking trail)
 
