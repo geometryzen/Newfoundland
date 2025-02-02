@@ -30,6 +30,11 @@ The best hike
 
 1:00hr total hike, easy trail
 
+## Lomond Sink Hole
+
+[A Newfoundland Secret Spot](https://www.hiddennewfoundland.ca/lomond-sinkhole)
+Very bumpy road - unhitch trailer.
+Need to use the rope to get down.
 ## Paddling
 
 [Paddling Newfoundland's Gros Morne National Park](https://www.youtube.com/watch?v=rIfCPrLECZQ)

@@ -3,6 +3,9 @@ It may be very windy.
 TODO: Need a detailed map of Twillingate
 Crow Head is possible campsite
 
+Kayaking around Burnt Island
+Consider getting charts for Nort Twillingate Island, Burnt Island French Beach 
+
 Rock Cut Trail?
 [French Beach Trail, Spiller's Cove](https://www.youtube.com/watch?v=WSnP2Bm5Lmo)
 
@@ -31,7 +34,11 @@ Annie's Harbor Restaurant for Fish and Chips (great views)
 
 [Newfoundland Part 2 - Twillingate & Port au Port Peninsula](https://www.youtube.com/watch?v=v1jXphFlSGY)
 
-Boat tours from Twillingate
+Boat tours from Twillingate "Iceberg boat tour"
+
+The "Tickle" - an opening through the rock.
+The "finger"?
+
 Ketchup chips
 grandoldshedpartyshow.ca Fri & Sun nights 8pm
 Coastal Trails
