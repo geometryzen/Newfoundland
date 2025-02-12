@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/040 Twillingate.md",
+                "file": "6 - Atomic Notes/Newfoundland Itinerary.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "040 Twillingate"
+              "title": "Newfoundland Itinerary"
             }
           }
         ],
@@ -55,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -180,6 +181,13 @@
   },
   "active": "d1f2a924a2173928",
   "lastOpenFiles": [
+    "8 - Campgrounds/Launch Dates and Reservations.md",
+    "8 - Campgrounds/Gros Morne Campgrounds.md",
+    "6 - Atomic Notes/Newfoundland Itinerary.md",
+    "3 - Tags/itinerary.md",
+    "6 - Atomic Notes/Outbound Itinerary.md",
+    "1 - Rough Notes/Boondocking.md",
+    "1 - Rough Notes/Example Trip and Historical Information.md",
     "6 - Atomic Notes/012 Gros Morne National Park.md",
     "6 - Atomic Notes/040 Twillingate.md",
     "6 - Atomic Notes/081 East Coast Trail.md",
@@ -191,22 +199,15 @@
     "6 - Atomic Notes/065 Saint Pierre and Miquelon?.md",
     "6 - Atomic Notes/085 Bay Bulls.md",
     "6 - Atomic Notes/080 St John's.md",
-    "1 - Rough Notes/Boondocking.md",
     "6 - Atomic Notes/010 Cape Ray.md",
     "6 - Atomic Notes/011 Port au Port.md",
-    "6 - Atomic Notes/Newfoundland Itinerary.md",
     "6 - Atomic Notes/Inbound Itinerary.md",
-    "8 - Campgrounds/Launch Dates and Reservations.md",
     "8 - Campgrounds/Pistolet Bay Provincial Park.md",
     "6 - Atomic Notes/030 Quirpon Island Zodiac Tour.md",
-    "8 - Campgrounds/Gros Morne Campgrounds.md",
     "8 - Campgrounds",
     "1 - Rough Notes/Top 21 Things to do in Newfoundland.md",
-    "1 - Rough Notes/Example Trip and Historical Information.md",
-    "6 - Atomic Notes/Outbound Itinerary.md",
     "1 - Rough Notes/What's Next.md",
     "2 - Source Material/7 Reasons You Might Not Love Living in Newfoundland.md",
-    "Gros Morne National Park.md",
     "1 - Rough Notes/new_name.adoc",
     "7 - Images/cape-spear.jpeg",
     "images/cape-spear.jpeg.crdownload",

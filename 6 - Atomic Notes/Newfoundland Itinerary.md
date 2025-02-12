@@ -15,25 +15,25 @@ Tags: [[itinerary]]
 |        |     | Port au Port Peninsula                 |                                         |                         | Lady of Mercy Wooden Church, Museum                                  |
 | May 31 |     | Bay of Islands and Humber Valley       | Blow Me Down Provincial Park            |                         |                                                                      |
 |        |     | Marble Mtn & Steady Brook Falls Trails |                                         |                         |                                                                      |
-| Jun 1  |     | Gros Morne                             | Lomond (National Park), from May 16     | Water's Edge Campground |                                                                      |
+| Jun 1  |     | Gros Morne                             | Lomond (National Park), from May 16     | Water's Edge Campground | BOOKED Lomond Site 22                                                                     |
 |        |     |                                        |                                         |                         |                                                                      |
-| Jun 2  |     | Bonne Bay Kayaking                     | Lomond                                  |                         |                                                                      |
+| Jun 2  |     | Bonne Bay Kayaking                     | Lomond                                  |                         | BOOKED Lomond Site 22                                                                     |
 |        |     |                                        |                                         |                         |                                                                      |
-| Jun 3  |     |                                        | Lomond                                  |                         |                                                                      |
+| Jun 3  |     |                                        | Lomond                                  |                         | BOOKED Lomond Site 22                                                                      |
 |        |     | Drive through Port au Choix            |                                         |                         |                                                                      |
 | Jun 4  |     | L'Anse aux Meadows                     | Pistolet Bay Provincial Park            |                         | Trying for June 4 thru  June 8                                       |
 |        |     | Raleigh                                |                                         |                         |                                                                      |
-| Jun 5  |     | [[030 Quirpon Island Zodiac Tour]]      | Pistolet                                |                         |                                                                      |
+| Jun 5  |     | [[030 Quirpon Island Zodiac Tour]]     | Pistolet                                |                         |                                                                      |
 |        |     | Kayaking Quirpon Island Bay            |                                         |                         |                                                                      |
 | Jun 6  |     | Ice Festival St Anthony                | Pistolet                                |                         |                                                                      |
 |        |     |                                        |                                         |                         |                                                                      |
 | Jun 7  |     |                                        | Pistolet                                |                         |                                                                      |
 |        |     |                                        |                                         |                         |                                                                      |
-| Jun 8  |     | Gros Morne, Trout River                | Trout River (National Park), from Jun 6 | Elephant Head RV Park   |                                                                      |
+| Jun 8  |     | Gros Morne, Trout River                | Trout River (National Park), from Jun 6 | Elephant Head RV Park   | BOOKED Trout River Site 44                                                                      |
 |        |     | Overfalls Trail                        |                                         |                         |                                                                      |
-| Jun 9  |     | Trout River Pond Kayaking              | Trout River                             |                         |                                                                      |
+| Jun 9  |     | Trout River Pond Kayaking              | Trout River                             |                         | BOOKED Trout River Site 44                                                                     |
 |        |     | Trout River Pond Trail                 |                                         |                         |                                                                      |
-| Jun 10 |     | Green Gardens Trail                    | Trout River                             |                         |                                                                      |
+| Jun 10 |     | Green Gardens Trail                    | Trout River                             |                         | BOOKED Trout River Site 44                                                                     |
 |        |     | Tablelands, Lookout Trail              |                                         |                         |                                                                      |
 | Jun 11 |     | Twillingate                            | Dildo Run Provincial Park               |                         |                                                                      |
 |        |     | French Coast Trails                    |                                         |                         |                                                                      |
