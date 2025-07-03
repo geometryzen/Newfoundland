@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4dd439bb4559f47a",
+        "id": "c894641463c1674c",
         "type": "tabs",
         "children": [
           {
-            "id": "a4e82b3833de1543",
+            "id": "caf9fc9834f232f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Equipment.md",
+                "file": "6 - Atomic Notes/Newfoundland 2025 Trip Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equipment"
-            }
-          },
-          {
-            "id": "d1f2a924a2173928",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Atomic Notes/Newfoundland Itinerary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Newfoundland Itinerary"
+              "title": "Newfoundland 2025 Trip Report"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Wester",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,39 +164,46 @@
       "asciidoctor-editor:New asciidoc file": false
     }
   },
-  "active": "d1f2a924a2173928",
+  "active": "caf9fc9834f232f2",
   "lastOpenFiles": [
-    "8 - Campgrounds/Launch Dates and Reservations.md",
-    "8 - Campgrounds/Gros Morne Campgrounds.md",
-    "6 - Atomic Notes/Newfoundland Itinerary.md",
-    "3 - Tags/itinerary.md",
+    "7 - Images/Pasted image 20250702202240.jpg",
+    "7 - Images/2025-06-04-western-brook-pond.jpg",
+    "6 - Atomic Notes/Newfoundland 2025 Trip Report.md",
     "6 - Atomic Notes/Outbound Itinerary.md",
-    "1 - Rough Notes/Boondocking.md",
-    "1 - Rough Notes/Example Trip and Historical Information.md",
-    "6 - Atomic Notes/012 Gros Morne National Park.md",
-    "6 - Atomic Notes/040 Twillingate.md",
-    "6 - Atomic Notes/081 East Coast Trail.md",
-    "6 - Atomic Notes/Equipment.md",
-    "1 - Rough Notes/Health.md",
-    "6 - Atomic Notes/Kayaking.md",
-    "6 - Atomic Notes/020 St Anthony.md",
-    "6 - Atomic Notes/035 Port au Choix.md",
-    "6 - Atomic Notes/065 Saint Pierre and Miquelon?.md",
-    "6 - Atomic Notes/085 Bay Bulls.md",
+    "7 - Images/2025-05-31-blow-me-down-kayaking.jpg",
+    "7 - Images/2025-05-31-blow-me-down-natalie-julie.jpg",
+    "7 - Images/2025-06-20-cape-st-george-julie-chloe.jpg",
+    "7 - Images/2025-05-30-cape-st-george-airstream.jpg",
+    "7 - Images/2025-05-30-cape-st-george-boondocking.jpg",
+    "7 - Images/2025-06-21-point-la-haye-whale-watching.jpg",
+    "7 - Images/2025-06-20-st-johns-gun-battery.jpg",
+    "7 - Images/2025-06-20-st-johns-the-rooms.jpg",
+    "6 - Atomic Notes/Newfoundland 2025.md",
+    "6 - Atomic Notes/Long Newfoundland 2025.md",
+    "3 - Tags/Long itinerary.md",
     "6 - Atomic Notes/080 St John's.md",
-    "6 - Atomic Notes/010 Cape Ray.md",
-    "6 - Atomic Notes/011 Port au Port.md",
-    "6 - Atomic Notes/Inbound Itinerary.md",
-    "8 - Campgrounds/Pistolet Bay Provincial Park.md",
+    "6 - Atomic Notes/081 East Coast Trail.md",
+    "6 - Atomic Notes/085 Bay Bulls.md",
+    "6 - Atomic Notes/060 Bonavista.md",
+    "6 - Atomic Notes/050 Trinity.md",
+    "6 - Atomic Notes/070 Cape Spear.md",
+    "6 - Atomic Notes/012 Gros Morne National Park.md",
+    "1 - Rough Notes/Example Trip and Historical Information.md",
+    "Gros Morne National Park.md",
+    "Newfoundland.md",
+    "6 - Atomic Notes/035 Port au Choix.md",
     "6 - Atomic Notes/030 Quirpon Island Zodiac Tour.md",
+    "6 - Atomic Notes/020 St Anthony.md",
+    "6 - Atomic Notes/011 Port au Port.md",
+    "6 - Atomic Notes/010 Cape Ray.md",
+    "6 - Atomic Notes/065 Saint Pierre and Miquelon?.md",
+    "6 - Atomic Notes/040 Twillingate.md",
+    "6 - Atomic Notes/Hiking.md",
+    "6 - Atomic Notes/Equipment.md",
+    "3 - Tags/Long itinerary 1.md",
     "8 - Campgrounds",
-    "1 - Rough Notes/Top 21 Things to do in Newfoundland.md",
-    "1 - Rough Notes/What's Next.md",
-    "2 - Source Material/7 Reasons You Might Not Love Living in Newfoundland.md",
     "1 - Rough Notes/new_name.adoc",
-    "7 - Images/cape-spear.jpeg",
     "images/cape-spear.jpeg.crdownload",
-    "7 - Images/00_04_Newfoundland.webp",
     "6 - Atomic Notes",
     "5 - Templates",
     "4 - Indices",

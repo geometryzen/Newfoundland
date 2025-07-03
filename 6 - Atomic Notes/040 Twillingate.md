@@ -4,7 +4,7 @@ TODO: Need a detailed map of Twillingate
 Crow Head is possible campsite
 
 Kayaking around Burnt Island
-Consider getting charts for Nort Twillingate Island, Burnt Island French Beach 
+Consider getting charts for North Twillingate Island, Burnt Island French Beach 
 
 Rock Cut Trail?
 [French Beach Trail, Spiller's Cove](https://www.youtube.com/watch?v=WSnP2Bm5Lmo)
